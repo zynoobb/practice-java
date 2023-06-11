@@ -8,6 +8,7 @@ public class NumberOverflow {
         int maxInt = Integer.MAX_VALUE;
 
         System.out.println(value +1);
+        System.out.println(maxInt);
         System.out.println(maxInt +1);
 
         // double 형 타입은 정수 값이 잘 대입된다.

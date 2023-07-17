@@ -6,6 +6,11 @@ public class VendingMachineMain {
 
         String product = vm1.pushProductButton(100);
         System.out.println(product);
+
+        // static 선언 메서드 출력 가능
+        vm1.printVersion();
+        // 다만, 클래스명을 명시해주어야 가독성이 좋음
+        VendingMachine.printVersion();
     }
 }
 

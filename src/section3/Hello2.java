@@ -15,4 +15,4 @@ public class Hello2 {
 // javac Hello2.java // 컴파일
 // java Hello2 // 실행
 
-// static 블록 이용 시 main함수보다 먼저 실행되는 함수를 만들 수 있음
+// static 블록 이용 시 main함수보다 먼저 실행되는 함수를 만들 수 있음짐
